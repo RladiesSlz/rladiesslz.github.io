@@ -1,0 +1,5 @@
+# Capítulo 1 - Introdução à computação para meteorologia
+
+Não precisamos nos tornar programadores profissionais ao final da disciplina. Porém, precisamos ao menos olhar para um código e conserguir compreender e interpretar (mais ir além disso não é proíbido, inclusive recomendamos).
+
+![Figura 1. Reflexão](/imagens/fig1.jpg){fig-align="center" width="598"}

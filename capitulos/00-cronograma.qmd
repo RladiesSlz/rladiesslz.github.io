@@ -1,0 +1,27 @@
+# Conteúdo
+
+## Fundamentos de Programação
+
+1.  Introdução à programação
+
+2.  Tipos de dados
+
+3.  Estruturas de controle
+
+4.  Funções
+
+## Estruturas de Dados
+
+1.  Vetores e listas
+
+2.  Data frames e tabelas
+
+3.  Matrizes
+
+## Manipulação de Dados
+
+1.  Indexação e filtragem
+
+2.  Limpeza de dados
+
+3.  Linhas e Colunas
